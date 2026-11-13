@@ -1,0 +1,8 @@
+altair
+joblib
+pandas
+Pillow
+pymupdf
+pytesseract
+scikit-learn
+streamlit
